@@ -1,0 +1,1 @@
+A arduino code to sound a buzzer. Played a small song using musical notes mapped to Hertz and also the 5th scale from C to C# :)
