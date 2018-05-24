@@ -1,0 +1,1 @@
+Simple Knight Rider (KIT) lights simulation using 10 LED Bulbs
